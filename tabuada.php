@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Gerador de Tabuada</title>
+    <title>Tabuada</title>
 </head>
 <body>
-    <h1>Gerador de Tabuada</h1>
+    <h1>Tabuada rápida, prática e eficiente </h1>
     <form method="post" action="">
-        <label for="number">Selecione um número:</label>
+        <label for="number">Escolha um número:</label>
         <select name="number" id="number">
             <?php
             // Gerar opções do 1 ao 10
